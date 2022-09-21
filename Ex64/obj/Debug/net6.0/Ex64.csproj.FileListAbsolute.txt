@@ -1,0 +1,15 @@
+C:\Users\nazar\Desktop\Курсы IT\HW 140922\Ex64\bin\Debug\net6.0\Ex64.exe
+C:\Users\nazar\Desktop\Курсы IT\HW 140922\Ex64\bin\Debug\net6.0\Ex64.deps.json
+C:\Users\nazar\Desktop\Курсы IT\HW 140922\Ex64\bin\Debug\net6.0\Ex64.runtimeconfig.json
+C:\Users\nazar\Desktop\Курсы IT\HW 140922\Ex64\bin\Debug\net6.0\Ex64.dll
+C:\Users\nazar\Desktop\Курсы IT\HW 140922\Ex64\bin\Debug\net6.0\Ex64.pdb
+C:\Users\nazar\Desktop\Курсы IT\HW 140922\Ex64\obj\Debug\net6.0\Ex64.csproj.AssemblyReference.cache
+C:\Users\nazar\Desktop\Курсы IT\HW 140922\Ex64\obj\Debug\net6.0\Ex64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazar\Desktop\Курсы IT\HW 140922\Ex64\obj\Debug\net6.0\Ex64.AssemblyInfoInputs.cache
+C:\Users\nazar\Desktop\Курсы IT\HW 140922\Ex64\obj\Debug\net6.0\Ex64.AssemblyInfo.cs
+C:\Users\nazar\Desktop\Курсы IT\HW 140922\Ex64\obj\Debug\net6.0\Ex64.csproj.CoreCompileInputs.cache
+C:\Users\nazar\Desktop\Курсы IT\HW 140922\Ex64\obj\Debug\net6.0\Ex64.dll
+C:\Users\nazar\Desktop\Курсы IT\HW 140922\Ex64\obj\Debug\net6.0\refint\Ex64.dll
+C:\Users\nazar\Desktop\Курсы IT\HW 140922\Ex64\obj\Debug\net6.0\Ex64.pdb
+C:\Users\nazar\Desktop\Курсы IT\HW 140922\Ex64\obj\Debug\net6.0\Ex64.genruntimeconfig.cache
+C:\Users\nazar\Desktop\Курсы IT\HW 140922\Ex64\obj\Debug\net6.0\ref\Ex64.dll
